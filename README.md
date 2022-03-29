@@ -2,6 +2,7 @@ BMI Calculator
 
 Body Mass Index (BMI) is a person’s weight in kilograms divided by the square of height in meters. A high BMI can indicate high body fatness. BMI screens for weight categories that may lead to health problems, but it does not diagnose the body fatness or health of an individual.
 
+
 Advantages of BMI 🌟
 
   1 - BMI helps measure the obesity rate in people.
@@ -15,6 +16,7 @@ Advantages of BMI 🌟
   5 - Knowing the BMI value of an individual, doctors can mitigate the health risks arising due to obesity.
 
 
+
 Formula And Condition 📏
 
   BMI Formulat : bmi= weight (kg) / ( height^2 (cm))
@@ -26,6 +28,7 @@ Formula And Condition 📏
   Normal : 18.4 < bmi < 25.1
   
   High : bmi > 25
+
 
 
 Challenges 💡
@@ -42,14 +45,19 @@ Challenges 💡
 
   6 - Color literals.
 
+
 Screenshots 📱
 
-<img src="BMI Input.png" width="100" height="200">  <img src="BMI Gender1.png" width="100" height="200"> <img src="BMI Gender2.png" width="100" height="200"> 
+<img src="BMI Input.png" width="100" height="200">  <img src="BMI Gender1.png" width="100" height="200"> <img src="BMI Gender2.png" width="100" height="200"> <img src="BMI Result 1.png" width="100" height="200"> <img src="BMI Result 2.png" width="100" height="200">  <img src="BMI Result 3.png" width="100" height="200">  <img src="BMI Result 4.png" width="100" height="200"> 
+
+
+
 
 
 IDE & Programming language 🔧
 
   This Application was devlopped with 💜 Flutter 💜 using the Android Studio
+
 
 Running The App 🔌
 
