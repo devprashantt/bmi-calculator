@@ -47,7 +47,7 @@ Screenshots 📱
 <img src="BMI Input.png" width="100" height="200">  <img src="BMI Gender1.png" width="100" height="200"> <img src="BMI Gender2.png" width="100" height="200"> 
 
 
-DE & Programming language 🔧
+IDE & Programming language 🔧
 
   This Application was devlopped with 💜 Flutter 💜 using the Android Studio
 
