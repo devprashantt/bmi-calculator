@@ -56,9 +56,9 @@ Screenshots 📱
 
 IDE & Programming language 🔧
 
-  This Application was devlopped with 💜 Flutter 💜 using the Android Studio
+  This Application was devlopped with Flutter using the Android Studio
 
 
 Running The App 🔌
 
-  No requirements you just have to set your device 📱 & click that green button ▶️ then fill your infos & check your body state 😃
+  No requirements you just have to set your device and fill the information asked and click the Calculate button then check your body state 😃
